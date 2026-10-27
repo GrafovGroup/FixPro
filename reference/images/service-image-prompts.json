@@ -1,0 +1,940 @@
+[
+  {
+    "route": "/services/plumbing/",
+    "key": "category-plumbing",
+    "service": "Plumbing",
+    "scene": "Wide view inside a bright commercial washroom utility alcove: a plumber kneeling beside clean exposed copper and PEX supply pipes beneath a wall-hung basin, with a tidy tool bag on grey porcelain flooring. Blue-grey tiles, side-on viewpoint.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Plumbing. Scene: Wide view inside a bright commercial washroom utility alcove: a plumber kneeling beside clean exposed copper and PEX supply pipes beneath a wall-hung basin, with a tidy tool bag on grey porcelain flooring. Blue-grey tiles, side-on viewpoint. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/services/plumbing/",
+      "key": "category-plumbing",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Plumbing. Scene: Wide view inside a bright commercial washroom utility alcove: a plumber kneeling beside clean exposed copper and PEX supply pipes beneath a wall-hung basin, with a tidy tool bag on grey porcelain flooring. Blue-grey tiles, side-on viewpoint. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc1d-46ed-7b10-a31a-7eafd2d449b1/exec-c9a27e20-b4d3-43fe-83bd-abffa641ae40.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-1/category-plumbing.png",
+      "status": "complete"
+    }
+  },
+  {
+    "route": "/services/electrical/",
+    "key": "category-electrical",
+    "service": "Electrical",
+    "scene": "An electrical professional in appropriate workwear inspecting the exterior of a closed, de-energized commercial distribution cabinet in a clean mechanical room, organized conduit visible above, lockout tag without legible lettering, no exposed energized parts. Wide three-quarter perspective.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Electrical. Scene: An electrical professional in appropriate workwear inspecting the exterior of a closed, de-energized commercial distribution cabinet in a clean mechanical room, organized conduit visible above, lockout tag without legible lettering, no exposed energized parts. Wide three-quarter perspective. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/services/electrical/",
+      "key": "category-electrical",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Electrical. Scene: An electrical professional in appropriate workwear inspecting the exterior of a closed, de-energized commercial distribution cabinet in a clean mechanical room, organized conduit visible above, lockout tag without legible lettering, no exposed energized parts. Wide three-quarter perspective. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-1e6a-7b72-8778-3ec92237a2aa/exec-1b10f3db-e211-497a-8480-3aae0b55cad2.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-2/category-electrical.png",
+      "status": "generated-inspected"
+    }
+  },
+  {
+    "route": "/services/hvac/",
+    "key": "category-hvac",
+    "service": "HVAC",
+    "scene": "A service technician checking a large outdoor commercial rooftop HVAC unit, viewed at equipment level on a broad safely enclosed flat roof. Clear cool daylight, blue workwear, city buildings blurred far beyond, no identifiable skyline.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: HVAC. Scene: A service technician checking a large outdoor commercial rooftop HVAC unit, viewed at equipment level on a broad safely enclosed flat roof. Clear cool daylight, blue workwear, city buildings blurred far beyond, no identifiable skyline. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/services/hvac/",
+      "key": "category-hvac",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: HVAC. Scene: A service technician checking a large outdoor commercial rooftop HVAC unit, viewed at equipment level on a broad safely enclosed flat roof. Clear cool daylight, blue workwear, city buildings blurred far beyond, no identifiable skyline. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-5beb-7373-ac31-b0fef29c3037/exec-87b56a20-eb05-4f00-b8ec-a9e41ace51a3.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-3/category-hvac.png",
+      "status": "inspected-approved",
+      "sha256": "b9d2a99757ae61976a4a4b42f8f4cc0da43ba09d3e774c116fa63dede2749bd4",
+      "width": 1536,
+      "height": 1024
+    }
+  },
+  {
+    "route": "/services/doors/",
+    "key": "category-doors",
+    "service": "Commercial Doors",
+    "scene": "Low-angle architectural photograph of a complete black-framed commercial double entrance with a maintenance professional inspecting the lower pivot hardware, modern lobby with terrazzo flooring and a timber feature wall.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Commercial Doors. Scene: Low-angle architectural photograph of a complete black-framed commercial double entrance with a maintenance professional inspecting the lower pivot hardware, modern lobby with terrazzo flooring and a timber feature wall. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/services/doors/",
+      "key": "category-doors",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Commercial Doors. Scene: Low-angle architectural photograph of a complete black-framed commercial double entrance with a maintenance professional inspecting the lower pivot hardware, modern lobby with terrazzo flooring and a timber feature wall. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc1d-46ed-7b10-a31a-7eafd2d449b1/exec-96fa7cd8-eed4-43c8-9a3d-cd797f04b096.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-1/category-doors.png",
+      "status": "complete"
+    }
+  },
+  {
+    "route": "/services/roofing/",
+    "key": "category-roofing",
+    "service": "Roofing",
+    "scene": "Professional roof inspection on a broad low-slope roof with dark grey membrane and a raised rectangular skylight, worker standing well away from protected edges, overcast daylight, yellow tool case, wide diagonal composition.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Roofing. Scene: Professional roof inspection on a broad low-slope roof with dark grey membrane and a raised rectangular skylight, worker standing well away from protected edges, overcast daylight, yellow tool case, wide diagonal composition. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/services/roofing/",
+      "key": "category-roofing",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Roofing. Scene: Professional roof inspection on a broad low-slope roof with dark grey membrane and a raised rectangular skylight, worker standing well away from protected edges, overcast daylight, yellow tool case, wide diagonal composition. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-1e6a-7b72-8778-3ec92237a2aa/exec-e937a903-9d4c-4f67-9800-8b7798523ea7.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-2/category-roofing.png",
+      "status": "generated-inspected"
+    }
+  },
+  {
+    "route": "/services/glass-windows/",
+    "key": "category-glass-windows",
+    "service": "Glass & Windows",
+    "scene": "Glazing professional beside a new large unbroken glass pane supported vertically on a padded A-frame inside an empty retail unit, suction handling grips attached, light brick interior and diffuse daylight.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Glass & Windows. Scene: Glazing professional beside a new large unbroken glass pane supported vertically on a padded A-frame inside an empty retail unit, suction handling grips attached, light brick interior and diffuse daylight. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/services/glass-windows/",
+      "key": "category-glass-windows",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Glass & Windows. Scene: Glazing professional beside a new large unbroken glass pane supported vertically on a padded A-frame inside an empty retail unit, suction handling grips attached, light brick interior and diffuse daylight. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-5beb-7373-ac31-b0fef29c3037/exec-d34455e9-0885-4d69-a013-2fc05ae85eb9.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-3/category-glass-windows.png",
+      "status": "inspected-approved",
+      "sha256": "4cf0f4fd3f9b4953a66d9d2e5eaa96354f36112ccd53afc0b888e8835c748000",
+      "width": 1536,
+      "height": 1024
+    }
+  },
+  {
+    "route": "/services/appliance-repair/",
+    "key": "category-appliance-repair",
+    "service": "Appliances & Equipment",
+    "scene": "Commercial kitchen service technician inspecting a bank of stainless steel equipment from the aisle, refrigeration cabinet at left and washer equipment at right, spotless tiled floor, warm overhead lighting, medium-wide composition.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Appliances & Equipment. Scene: Commercial kitchen service technician inspecting a bank of stainless steel equipment from the aisle, refrigeration cabinet at left and washer equipment at right, spotless tiled floor, warm overhead lighting, medium-wide composition. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/services/appliance-repair/",
+      "key": "category-appliance-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Appliances & Equipment. Scene: Commercial kitchen service technician inspecting a bank of stainless steel equipment from the aisle, refrigeration cabinet at left and washer equipment at right, spotless tiled floor, warm overhead lighting, medium-wide composition. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc1d-46ed-7b10-a31a-7eafd2d449b1/exec-368f3c25-8b4f-4671-913a-738fc4b20673.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-1/category-appliance-repair.png",
+      "status": "complete"
+    }
+  },
+  {
+    "route": "/services/general-repairs/",
+    "key": "category-general-repairs",
+    "service": "General Repairs",
+    "scene": "Property maintenance professional measuring a small wall repair beside a timber skirting board in an empty office, drop cloth and neatly organized hand tools, soft morning light, waist-level candid framing.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: General Repairs. Scene: Property maintenance professional measuring a small wall repair beside a timber skirting board in an empty office, drop cloth and neatly organized hand tools, soft morning light, waist-level candid framing. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/services/general-repairs/",
+      "key": "category-general-repairs",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: General Repairs. Scene: Property maintenance professional measuring a small wall repair beside a timber skirting board in an empty office, drop cloth and neatly organized hand tools, soft morning light, waist-level candid framing. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-1e6a-7b72-8778-3ec92237a2aa/exec-d29461d7-719c-4db6-bd7c-dfd876e9dc30.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-2/category-general-repairs.png",
+      "status": "generated-inspected"
+    }
+  },
+  {
+    "route": "/services/plumbing/faucet-repair/",
+    "key": "detail-faucet-repair",
+    "service": "Faucet repair",
+    "scene": "Close editorial photograph of gloved hands beside a single-lever brushed nickel faucet on a white ceramic basin, one small drop at the spout and a replacement cartridge resting on a clean towel. Pale blue tiled washroom, focus on the complete faucet.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Faucet repair. Scene: Close editorial photograph of gloved hands beside a single-lever brushed nickel faucet on a white ceramic basin, one small drop at the spout and a replacement cartridge resting on a clean towel. Pale blue tiled washroom, focus on the complete faucet. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/services/plumbing/faucet-repair/",
+      "key": "detail-faucet-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Faucet repair. Scene: Close editorial photograph of gloved hands beside a single-lever brushed nickel faucet on a white ceramic basin, one small drop at the spout and a replacement cartridge resting on a clean towel. Pale blue tiled washroom, focus on the complete faucet. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-5beb-7373-ac31-b0fef29c3037/exec-8a661cbd-bc94-4d01-9756-45654f79dda3.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-3/detail-faucet-repair.png",
+      "status": "inspected-approved",
+      "sha256": "fece89cb9efd814127f58262e68b9a6619d876bbbc78db54159d40fd8d03eb66",
+      "width": 1536,
+      "height": 1024
+    }
+  },
+  {
+    "route": "/services/plumbing/toilet-repair/",
+    "key": "detail-toilet-repair",
+    "service": "Toilet repair",
+    "scene": "A plumber reviewing the open cistern of a modern white tank toilet in a bright compact washroom, clean flushing mechanism visible, technician side profile and gloved hands, light stone tiles, no mess.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Toilet repair. Scene: A plumber reviewing the open cistern of a modern white tank toilet in a bright compact washroom, clean flushing mechanism visible, technician side profile and gloved hands, light stone tiles, no mess. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/services/plumbing/toilet-repair/",
+      "key": "detail-toilet-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Toilet repair. Scene: A plumber reviewing the open cistern of a modern white tank toilet in a bright compact washroom, clean flushing mechanism visible, technician side profile and gloved hands, light stone tiles, no mess. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc1d-46ed-7b10-a31a-7eafd2d449b1/exec-72d79e9e-670c-402a-aadc-2f218bc1eb1f.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-1/detail-toilet-repair.png",
+      "status": "complete"
+    }
+  },
+  {
+    "route": "/services/electrical/light-fixture-repair/",
+    "key": "detail-light-fixture-repair",
+    "service": "Light fixture repair",
+    "scene": "Commercial lighting professional examining a removed rectangular LED driver beside a de-energized slim ceiling light fixture on a workbench, frosted diffuser and neat tools, daylight office renovation setting, close three-quarter framing.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Light fixture repair. Scene: Commercial lighting professional examining a removed rectangular LED driver beside a de-energized slim ceiling light fixture on a workbench, frosted diffuser and neat tools, daylight office renovation setting, close three-quarter framing. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/services/electrical/light-fixture-repair/",
+      "key": "detail-light-fixture-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Light fixture repair. Scene: Commercial lighting professional examining a removed rectangular LED driver beside a de-energized slim ceiling light fixture on a workbench, frosted diffuser and neat tools, daylight office renovation setting, close three-quarter framing. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-1e6a-7b72-8778-3ec92237a2aa/exec-595606e0-23d4-4e11-ae00-424646319820.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-2/detail-light-fixture-repair.png",
+      "status": "generated-inspected"
+    }
+  },
+  {
+    "route": "/services/electrical/outlet-repair/",
+    "key": "detail-outlet-repair",
+    "service": "Electrical outlet repair",
+    "scene": "Close view of a damaged North American duplex outlet with a cracked ivory faceplate on a muted blue wall, power safely isolated, a professional holding a matching new receptacle nearby, no visible live wires and no active testing.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Electrical outlet repair. Scene: Close view of a damaged North American duplex outlet with a cracked ivory faceplate on a muted blue wall, power safely isolated, a professional holding a matching new receptacle nearby, no visible live wires and no active testing. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/services/electrical/outlet-repair/",
+      "key": "detail-outlet-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Electrical outlet repair. Scene: Close view of a damaged North American duplex outlet with a cracked ivory faceplate on a muted blue wall, power safely isolated, a professional holding a matching new receptacle nearby, no visible live wires and no active testing. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-5beb-7373-ac31-b0fef29c3037/exec-66f23bb8-9fdb-44ac-bf5d-88774214144a.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-3/detail-outlet-repair.png",
+      "status": "inspected-approved",
+      "sha256": "a2c25818ccd3704603a69238536cac6701591ee218bac4b962be55d61c17cf2f",
+      "width": 1536,
+      "height": 1024
+    }
+  },
+  {
+    "route": "/services/hvac/furnace-repair/",
+    "key": "detail-furnace-repair",
+    "service": "Furnace repair",
+    "scene": "A technician reviewing a clean residential forced-air furnace exterior and accessible diagnostic display in an orderly basement mechanical room, furnace and ductwork central, copper piping, neutral warm illumination, no open combustion components.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Furnace repair. Scene: A technician reviewing a clean residential forced-air furnace exterior and accessible diagnostic display in an orderly basement mechanical room, furnace and ductwork central, copper piping, neutral warm illumination, no open combustion components. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/services/hvac/furnace-repair/",
+      "key": "detail-furnace-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Furnace repair. Scene: A technician reviewing a clean residential forced-air furnace exterior and accessible diagnostic display in an orderly basement mechanical room, furnace and ductwork central, copper piping, neutral warm illumination, no open combustion components. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc1d-46ed-7b10-a31a-7eafd2d449b1/exec-a687db46-a5cd-4e76-a061-0997d0a00387.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-1/detail-furnace-repair.png",
+      "status": "complete"
+    }
+  },
+  {
+    "route": "/services/hvac/air-conditioning-repair/",
+    "key": "detail-air-conditioning-repair",
+    "service": "Air conditioning repair",
+    "scene": "An HVAC professional inspecting the exterior of a compact outdoor condenser in a paved side yard, coil fins and fan grille clearly recognizable, brick wall, green shrubs at a distance, bright summer daylight, low side angle.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Air conditioning repair. Scene: An HVAC professional inspecting the exterior of a compact outdoor condenser in a paved side yard, coil fins and fan grille clearly recognizable, brick wall, green shrubs at a distance, bright summer daylight, low side angle. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/services/hvac/air-conditioning-repair/",
+      "key": "detail-air-conditioning-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Air conditioning repair. Scene: An HVAC professional inspecting the exterior of a compact outdoor condenser in a paved side yard, coil fins and fan grille clearly recognizable, brick wall, green shrubs at a distance, bright summer daylight, low side angle. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-1e6a-7b72-8778-3ec92237a2aa/exec-a91f9282-a0f1-42dd-aa3f-cb52068c2bfd.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-2/detail-air-conditioning-repair.png",
+      "status": "generated-inspected"
+    }
+  },
+  {
+    "route": "/services/doors/door-closer-repair/",
+    "key": "detail-door-closer-repair",
+    "service": "Door closer repair",
+    "scene": "Tight eye-level detail of a silver surface-mounted hydraulic door closer at the top of an aluminium-framed commercial door, gloved hand checking the mounting with a screwdriver, soft out-of-focus blue office lobby beyond.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Door closer repair. Scene: Tight eye-level detail of a silver surface-mounted hydraulic door closer at the top of an aluminium-framed commercial door, gloved hand checking the mounting with a screwdriver, soft out-of-focus blue office lobby beyond. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/services/doors/door-closer-repair/",
+      "key": "detail-door-closer-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Door closer repair. Scene: Tight eye-level detail of a silver surface-mounted hydraulic door closer at the top of an aluminium-framed commercial door, gloved hand checking the mounting with a screwdriver, soft out-of-focus blue office lobby beyond. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-5beb-7373-ac31-b0fef29c3037/exec-820d7e23-847b-4d6c-b6da-06b000bca962.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-3/detail-door-closer-repair.png",
+      "status": "inspected-approved",
+      "sha256": "665fb835dd39ee51a7706ee21354b2a7ffa10fc56ed7c718f8c9363030f0984f",
+      "width": 1536,
+      "height": 1024
+    }
+  },
+  {
+    "route": "/services/doors/door-alignment-repair/",
+    "key": "detail-door-alignment-repair",
+    "service": "Door alignment repair",
+    "scene": "Close side view of a maintenance technician using a small spirit level along the vertical edge of a dark metal commercial door, visible latch and strike gap, warm brick storefront interior, no other repair props.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Door alignment repair. Scene: Close side view of a maintenance technician using a small spirit level along the vertical edge of a dark metal commercial door, visible latch and strike gap, warm brick storefront interior, no other repair props. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/services/doors/door-alignment-repair/",
+      "key": "detail-door-alignment-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Door alignment repair. Scene: Close side view of a maintenance technician using a small spirit level along the vertical edge of a dark metal commercial door, visible latch and strike gap, warm brick storefront interior, no other repair props. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc1d-46ed-7b10-a31a-7eafd2d449b1/exec-9fad94af-bd8e-4591-973f-9598eee5b581.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-1/detail-door-alignment-repair.png",
+      "status": "complete"
+    }
+  },
+  {
+    "route": "/services/roofing/roof-leak-assessment/",
+    "key": "detail-roof-leak-assessment",
+    "service": "Roof leak assessment",
+    "scene": "Interior assessment of a small irregular water stain on an office ceiling near a roof skylight, professional at floor level looking upward with a flashlight, furniture protected beneath, dry non-sagging ceiling and daylight.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Roof leak assessment. Scene: Interior assessment of a small irregular water stain on an office ceiling near a roof skylight, professional at floor level looking upward with a flashlight, furniture protected beneath, dry non-sagging ceiling and daylight. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/services/roofing/roof-leak-assessment/",
+      "key": "detail-roof-leak-assessment",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Roof leak assessment. Scene: Interior assessment of a small irregular water stain on an office ceiling near a roof skylight, professional at floor level looking upward with a flashlight, furniture protected beneath, dry non-sagging ceiling and daylight. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-1e6a-7b72-8778-3ec92237a2aa/exec-3d7d5a58-adc3-47a6-98fc-4d6fc208c2b8.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-2/detail-roof-leak-assessment.png",
+      "status": "generated-inspected"
+    }
+  },
+  {
+    "route": "/services/roofing/flat-roof-repair/",
+    "key": "detail-flat-roof-repair",
+    "service": "Flat roof repair",
+    "scene": "Close detail of a roofing professional assessing an isolated seam in a clean light-grey single-ply roof membrane, kneeling safely far from roof edges, gloved hands and a small inspection probe, no flame, no skyline.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Flat roof repair. Scene: Close detail of a roofing professional assessing an isolated seam in a clean light-grey single-ply roof membrane, kneeling safely far from roof edges, gloved hands and a small inspection probe, no flame, no skyline. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/services/roofing/flat-roof-repair/",
+      "key": "detail-flat-roof-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Flat roof repair. Scene: Close detail of a roofing professional assessing an isolated seam in a clean light-grey single-ply roof membrane, kneeling safely far from roof edges, gloved hands and a small inspection probe, no flame, no skyline. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-5beb-7373-ac31-b0fef29c3037/exec-2ca285e8-7763-4644-990c-39ef1bb9e8a9.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-3/detail-flat-roof-repair.png",
+      "status": "inspected-approved",
+      "sha256": "9f2277a1a16af223cb533e0b6d3d7c20b99c219f6ac964f251e8ceddf79a9473",
+      "width": 1536,
+      "height": 1024
+    }
+  },
+  {
+    "route": "/services/glass-windows/storefront-glass-repair/",
+    "key": "detail-storefront-glass-repair",
+    "service": "Storefront glass repair",
+    "scene": "Two glazing professionals in protective gloves positioning an intact replacement storefront pane with suction handles inside a closed shop, black aluminium framing, uncluttered warm stone floor, full pane clearly visible.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Storefront glass repair. Scene: Two glazing professionals in protective gloves positioning an intact replacement storefront pane with suction handles inside a closed shop, black aluminium framing, uncluttered warm stone floor, full pane clearly visible. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/services/glass-windows/storefront-glass-repair/",
+      "key": "detail-storefront-glass-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Storefront glass repair. Scene: Two glazing professionals in protective gloves positioning an intact replacement storefront pane with suction handles inside a closed shop, black aluminium framing, uncluttered warm stone floor, full pane clearly visible. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc1d-46ed-7b10-a31a-7eafd2d449b1/exec-ef358139-120a-4bed-acfc-83e08df5d743.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-1/detail-storefront-glass-repair.png",
+      "status": "complete"
+    }
+  },
+  {
+    "route": "/services/glass-windows/window-hardware-repair/",
+    "key": "detail-window-hardware-repair",
+    "service": "Window hardware repair",
+    "scene": "Close interior view of a brass casement-window crank and hinge assembly on a cream painted timber window, gloved hand checking the handle, soft green garden blur outside, elegant side-lit composition.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Window hardware repair. Scene: Close interior view of a brass casement-window crank and hinge assembly on a cream painted timber window, gloved hand checking the handle, soft green garden blur outside, elegant side-lit composition. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/services/glass-windows/window-hardware-repair/",
+      "key": "detail-window-hardware-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Window hardware repair. Scene: Close interior view of a brass casement-window crank and hinge assembly on a cream painted timber window, gloved hand checking the handle, soft green garden blur outside, elegant side-lit composition. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-1e6a-7b72-8778-3ec92237a2aa/exec-9df59218-3115-4f57-b786-1d3cc9ed7b2a.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-2/detail-window-hardware-repair.png",
+      "status": "generated-inspected"
+    }
+  },
+  {
+    "route": "/services/appliance-repair/commercial-refrigerator-repair/",
+    "key": "detail-commercial-refrigerator-repair",
+    "service": "Commercial refrigerator repair",
+    "scene": "Restaurant service technician inspecting the exterior control area of a stainless commercial reach-in refrigerator, door closed, clean tiled kitchen and a small diagnostic case nearby, medium shot without food or people in background.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Commercial refrigerator repair. Scene: Restaurant service technician inspecting the exterior control area of a stainless commercial reach-in refrigerator, door closed, clean tiled kitchen and a small diagnostic case nearby, medium shot without food or people in background. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/services/appliance-repair/commercial-refrigerator-repair/",
+      "key": "detail-commercial-refrigerator-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Commercial refrigerator repair. Scene: Restaurant service technician inspecting the exterior control area of a stainless commercial reach-in refrigerator, door closed, clean tiled kitchen and a small diagnostic case nearby, medium shot without food or people in background. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-5beb-7373-ac31-b0fef29c3037/exec-6e105c96-cc0b-40ba-92ed-36826d879bed.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-3/detail-commercial-refrigerator-repair.png",
+      "status": "inspected-approved",
+      "sha256": "e49fd548c8fd8ceb36ed65455fc6f42ef47a98a030e3aa8214f9f446f42ca6ce",
+      "width": 1536,
+      "height": 1024
+    }
+  },
+  {
+    "route": "/services/appliance-repair/washer-repair/",
+    "key": "detail-washer-repair",
+    "service": "Washing machine repair",
+    "scene": "Appliance technician kneeling beside a freestanding front-loading washing machine with its door open and empty drum visible, modern white laundry room, blue tool mat, safe dry conditions, three-quarter angle.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Washing machine repair. Scene: Appliance technician kneeling beside a freestanding front-loading washing machine with its door open and empty drum visible, modern white laundry room, blue tool mat, safe dry conditions, three-quarter angle. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/services/appliance-repair/washer-repair/",
+      "key": "detail-washer-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Washing machine repair. Scene: Appliance technician kneeling beside a freestanding front-loading washing machine with its door open and empty drum visible, modern white laundry room, blue tool mat, safe dry conditions, three-quarter angle. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc1d-46ed-7b10-a31a-7eafd2d449b1/exec-2994b85d-14dd-4666-ad4b-102d53843dcc.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-1/detail-washer-repair.png",
+      "status": "complete"
+    }
+  },
+  {
+    "route": "/services/general-repairs/drywall-repair/",
+    "key": "detail-drywall-repair",
+    "service": "Drywall repair",
+    "scene": "Hands of a maintenance professional applying joint compound to a neatly bounded small drywall patch with a broad taping knife, neutral unfinished wall, protected floor, close view of authentic plaster texture.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Drywall repair. Scene: Hands of a maintenance professional applying joint compound to a neatly bounded small drywall patch with a broad taping knife, neutral unfinished wall, protected floor, close view of authentic plaster texture. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/services/general-repairs/drywall-repair/",
+      "key": "detail-drywall-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Drywall repair. Scene: Hands of a maintenance professional applying joint compound to a neatly bounded small drywall patch with a broad taping knife, neutral unfinished wall, protected floor, close view of authentic plaster texture. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-1e6a-7b72-8778-3ec92237a2aa/exec-703a53f6-1b84-48c9-9c2e-4b58df5ea3de.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-2/detail-drywall-repair.png",
+      "status": "generated-inspected"
+    }
+  },
+  {
+    "route": "/services/general-repairs/ceiling-tile-replacement/",
+    "key": "detail-ceiling-tile-replacement",
+    "service": "Ceiling tile replacement",
+    "scene": "A maintenance professional on a proper platform stepladder fitting one clean acoustic tile into a suspended ceiling grid, simple empty office, frame includes ceiling and stable platform, soft daylight, no lighting work.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Ceiling tile replacement. Scene: A maintenance professional on a proper platform stepladder fitting one clean acoustic tile into a suspended ceiling grid, simple empty office, frame includes ceiling and stable platform, soft daylight, no lighting work. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/services/general-repairs/ceiling-tile-replacement/",
+      "key": "detail-ceiling-tile-replacement",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Ceiling tile replacement. Scene: A maintenance professional on a proper platform stepladder fitting one clean acoustic tile into a suspended ceiling grid, simple empty office, frame includes ceiling and stable platform, soft daylight, no lighting work. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-5beb-7373-ac31-b0fef29c3037/exec-2629e9f4-ee21-4a19-8ac9-62e66ca5dd75.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-3/detail-ceiling-tile-replacement.png",
+      "status": "inspected-approved",
+      "sha256": "40502cea459e4a0945c58593fb785195f52af138188e4800272519594df80043",
+      "width": 1536,
+      "height": 1024
+    }
+  },
+  {
+    "route": "/locations/ontario/toronto/doors/",
+    "key": "local-toronto-doors",
+    "service": "Commercial Doors in Toronto",
+    "scene": "Street-level commercial entrance from inside a bright shared tower lobby, professional checking a brushed steel push bar on a dark bronze door, polished dark stone floor, full vertical entrance and floor-level hardware in view, no skyline.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Commercial Doors in Toronto. Scene: Street-level commercial entrance from inside a bright shared tower lobby, professional checking a brushed steel push bar on a dark bronze door, polished dark stone floor, full vertical entrance and floor-level hardware in view, no skyline. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/ontario/toronto/doors/",
+      "key": "local-toronto-doors",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Commercial Doors in Toronto. Scene: Street-level commercial entrance from inside a bright shared tower lobby, professional checking a brushed steel push bar on a dark bronze door, polished dark stone floor, full vertical entrance and floor-level hardware in view, no skyline. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc1d-46ed-7b10-a31a-7eafd2d449b1/exec-396d35a5-1c1f-4eba-9c61-588507c9f346.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-1/local-toronto-doors.png",
+      "status": "complete"
+    }
+  },
+  {
+    "route": "/locations/ontario/toronto/plumbing/",
+    "key": "local-toronto-plumbing",
+    "service": "Plumbing in Toronto",
+    "scene": "Building plumber inspecting an accessible isolation-valve manifold in a tidy multi-unit utility cupboard, labelled but unreadable pipe tags, cream masonry walls, clipboard on shelf, medium-wide angle without a sink.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Plumbing in Toronto. Scene: Building plumber inspecting an accessible isolation-valve manifold in a tidy multi-unit utility cupboard, labelled but unreadable pipe tags, cream masonry walls, clipboard on shelf, medium-wide angle without a sink. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/ontario/toronto/plumbing/",
+      "key": "local-toronto-plumbing",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Plumbing in Toronto. Scene: Building plumber inspecting an accessible isolation-valve manifold in a tidy multi-unit utility cupboard, labelled but unreadable pipe tags, cream masonry walls, clipboard on shelf, medium-wide angle without a sink. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-1e6a-7b72-8778-3ec92237a2aa/exec-9087c27a-0190-478b-bbce-4bdbd73f610c.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-2/local-toronto-plumbing.png",
+      "status": "generated-inspected"
+    }
+  },
+  {
+    "route": "/locations/british-columbia/vancouver/hvac/",
+    "key": "local-vancouver-hvac",
+    "service": "HVAC in Vancouver",
+    "scene": "Service professional standing in a glazed office mechanical alcove beside a wall-mounted commercial fan-coil enclosure, soft rainy daylight through windows, muted green interior accents, clean equipment with panels closed.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: HVAC in Vancouver. Scene: Service professional standing in a glazed office mechanical alcove beside a wall-mounted commercial fan-coil enclosure, soft rainy daylight through windows, muted green interior accents, clean equipment with panels closed. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/british-columbia/vancouver/hvac/",
+      "key": "local-vancouver-hvac",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: HVAC in Vancouver. Scene: Service professional standing in a glazed office mechanical alcove beside a wall-mounted commercial fan-coil enclosure, soft rainy daylight through windows, muted green interior accents, clean equipment with panels closed. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-5beb-7373-ac31-b0fef29c3037/exec-40cf3dd5-e499-40ed-8d75-0b886a9b6a28.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-3/local-vancouver-hvac.png",
+      "status": "inspected-approved",
+      "sha256": "6c67222929e9f758f85bcea381429bf16b90149c936f9e34249ae082bd6a3e1c",
+      "width": 1536,
+      "height": 1024
+    }
+  },
+  {
+    "route": "/locations/alberta/calgary/roofing/",
+    "key": "local-calgary-roofing",
+    "service": "Roofing in Calgary",
+    "scene": "Roofer inspecting a roof penetration flashing on a broad commercial roof after snow has melted, small distant patches of residual snow, dry work area and protected perimeter, equipment-level close wide view, no identifiable landmarks.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Roofing in Calgary. Scene: Roofer inspecting a roof penetration flashing on a broad commercial roof after snow has melted, small distant patches of residual snow, dry work area and protected perimeter, equipment-level close wide view, no identifiable landmarks. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/alberta/calgary/roofing/",
+      "key": "local-calgary-roofing",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Roofing in Calgary. Scene: Roofer inspecting a roof penetration flashing on a broad commercial roof after snow has melted, small distant patches of residual snow, dry work area and protected perimeter, equipment-level close wide view, no identifiable landmarks. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc1d-46ed-7b10-a31a-7eafd2d449b1/exec-bd9f9ac5-31e5-4f11-9226-feb47527f34b.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-1/local-calgary-roofing.png",
+      "status": "complete"
+    }
+  },
+  {
+    "route": "/locations/ontario/ottawa/electrical/",
+    "key": "local-ottawa-electrical",
+    "service": "Electrical in Ottawa",
+    "scene": "Electrician and facilities contact reviewing a closed lighting-control enclosure beside an office corridor service-room entrance, clipboards without lettering, warm wood panelling and tidy conduit, clean institutional interior.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Electrical in Ottawa. Scene: Electrician and facilities contact reviewing a closed lighting-control enclosure beside an office corridor service-room entrance, clipboards without lettering, warm wood panelling and tidy conduit, clean institutional interior. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/ontario/ottawa/electrical/",
+      "key": "local-ottawa-electrical",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Electrical in Ottawa. Scene: Electrician and facilities contact reviewing a closed lighting-control enclosure beside an office corridor service-room entrance, clipboards without lettering, warm wood panelling and tidy conduit, clean institutional interior. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-1e6a-7b72-8778-3ec92237a2aa/exec-579739e6-195b-4e5c-a0d3-46aa81307c29.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-2/local-ottawa-electrical.png",
+      "status": "generated-inspected"
+    }
+  },
+  {
+    "route": "/locations/quebec/montreal/doors/",
+    "key": "local-montreal-doors",
+    "service": "Commercial Doors in Montreal",
+    "scene": "Maintenance professional checking a tall timber-and-glass storefront entrance in an older brick commercial building, close view of dark iron hinges and latch, restrained historic architectural details, daylight, no landmark or signage.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Commercial Doors in Montreal. Scene: Maintenance professional checking a tall timber-and-glass storefront entrance in an older brick commercial building, close view of dark iron hinges and latch, restrained historic architectural details, daylight, no landmark or signage. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/quebec/montreal/doors/",
+      "key": "local-montreal-doors",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Commercial Doors in Montreal. Scene: Maintenance professional checking a tall timber-and-glass storefront entrance in an older brick commercial building, close view of dark iron hinges and latch, restrained historic architectural details, daylight, no landmark or signage. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-5beb-7373-ac31-b0fef29c3037/exec-094098c3-c84d-4cdd-950d-0ab234c4357a.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-3/local-montreal-doors.png",
+      "status": "parent-approved",
+      "reviewNote": "Precise hinge correction visually reviewed and approved by parent.",
+      "originalSavedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-3/local-montreal-doors-original.png",
+      "editPrompt": "Use case: precise-object-edit. Edit this inspected original photograph only: remove only the hinge connecting the meeting edges above the two pull handles, restore continuous natural wooden door stiles, keep the worker inspecting the door seam and all other details unchanged. Preserve the exact composition, framing, worker, clothing, hands, handles, wood textures, glass reflections, brick surroundings, colours and lighting. Do not add or move any other objects.",
+      "editSourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-5beb-7373-ac31-b0fef29c3037/exec-81c3e54b-6189-4c6a-bc6f-9abfb19cfe8b.png",
+      "sha256": "5d3fd2553dd8e81e86ea5a7263f099d0872765a2ba75059efa998327b17d448b",
+      "width": 1536,
+      "height": 1024
+    }
+  },
+  {
+    "route": "/locations/ontario/toronto/door-closer-repair/",
+    "key": "local-toronto-door-closer-repair",
+    "service": "Door closer repair in Toronto",
+    "scene": "Diagonal close photograph of a matte black overhead closer on a clear glass entrance in a busy-looking but empty modern shared lobby, technician viewed from behind checking the closer arm, dark tiled floor and polished stone columns.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Door closer repair in Toronto. Scene: Diagonal close photograph of a matte black overhead closer on a clear glass entrance in a busy-looking but empty modern shared lobby, technician viewed from behind checking the closer arm, dark tiled floor and polished stone columns. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/ontario/toronto/door-closer-repair/",
+      "key": "local-toronto-door-closer-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Door closer repair in Toronto. Scene: Diagonal close photograph of a matte black overhead closer on a clear glass entrance in a busy-looking but empty modern shared lobby, technician viewed from behind checking the closer arm, dark tiled floor and polished stone columns. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc1d-46ed-7b10-a31a-7eafd2d449b1/exec-bd4304b3-41e3-4509-85f5-35cb1cea5bb4.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-1/local-toronto-door-closer-repair.png",
+      "status": "complete"
+    }
+  },
+  {
+    "route": "/locations/ontario/toronto/faucet-repair/",
+    "key": "local-toronto-faucet-repair",
+    "service": "Faucet repair in Toronto",
+    "scene": "Plumber inspecting a chrome sensor-operated faucet above a rectangular wall-hung basin in a contemporary office-tower washroom, teal mosaic backsplash, gloved hand indicating the base seal, overhead angle focused on fixture.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Faucet repair in Toronto. Scene: Plumber inspecting a chrome sensor-operated faucet above a rectangular wall-hung basin in a contemporary office-tower washroom, teal mosaic backsplash, gloved hand indicating the base seal, overhead angle focused on fixture. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/ontario/toronto/faucet-repair/",
+      "key": "local-toronto-faucet-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Faucet repair in Toronto. Scene: Plumber inspecting a chrome sensor-operated faucet above a rectangular wall-hung basin in a contemporary office-tower washroom, teal mosaic backsplash, gloved hand indicating the base seal, overhead angle focused on fixture. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-1e6a-7b72-8778-3ec92237a2aa/exec-3e31df64-5af9-4581-9f05-dc658c9f7db5.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-2/local-toronto-faucet-repair.png",
+      "status": "generated-inspected"
+    }
+  },
+  {
+    "route": "/locations/british-columbia/vancouver/storefront-glass-repair/",
+    "key": "local-vancouver-storefront-glass-repair",
+    "service": "Storefront glass repair in Vancouver",
+    "scene": "Glazier measuring an empty black-framed storefront glazing opening from inside a closed boutique, replacement glass safely secured on a padded rack nearby, rainy pavement visible outside, pale timber floor, no broken shards.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Storefront glass repair in Vancouver. Scene: Glazier measuring an empty black-framed storefront glazing opening from inside a closed boutique, replacement glass safely secured on a padded rack nearby, rainy pavement visible outside, pale timber floor, no broken shards. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/british-columbia/vancouver/storefront-glass-repair/",
+      "key": "local-vancouver-storefront-glass-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Storefront glass repair in Vancouver. Scene: Glazier measuring an empty black-framed storefront glazing opening from inside a closed boutique, replacement glass safely secured on a padded rack nearby, rainy pavement visible outside, pale timber floor, no broken shards. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-5beb-7373-ac31-b0fef29c3037/exec-49b5e535-7dfa-43eb-b0e7-be9ec9d8b91b.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-3/local-vancouver-storefront-glass-repair.png",
+      "status": "inspected-approved",
+      "sha256": "2ca59ce9a485130cdda1ea2c2cddb25895834884dfb178647ef846750e3ec789",
+      "width": 1536,
+      "height": 1024
+    }
+  },
+  {
+    "route": "/locations/british-columbia/vancouver/air-conditioning-repair/",
+    "key": "local-vancouver-air-conditioning-repair",
+    "service": "Air conditioning repair in Vancouver",
+    "scene": "HVAC professional examining the closed exterior of a slim wall-mounted indoor air-conditioning unit in a modern strata apartment, large rain-speckled window, pale oak flooring, eye-level wide composition.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Air conditioning repair in Vancouver. Scene: HVAC professional examining the closed exterior of a slim wall-mounted indoor air-conditioning unit in a modern strata apartment, large rain-speckled window, pale oak flooring, eye-level wide composition. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/british-columbia/vancouver/air-conditioning-repair/",
+      "key": "local-vancouver-air-conditioning-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Air conditioning repair in Vancouver. Scene: HVAC professional examining the closed exterior of a slim wall-mounted indoor air-conditioning unit in a modern strata apartment, large rain-speckled window, pale oak flooring, eye-level wide composition. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc1d-46ed-7b10-a31a-7eafd2d449b1/exec-fa362c00-1986-4224-b80e-cffd5863865e.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-1/local-vancouver-air-conditioning-repair.png",
+      "status": "complete"
+    }
+  },
+  {
+    "route": "/locations/alberta/calgary/furnace-repair/",
+    "key": "local-calgary-furnace-repair",
+    "service": "Furnace repair in Calgary",
+    "scene": "Service technician checking the exterior controls of a compact upright furnace in a tidy commercial service room, galvanized duct elbows overhead, amber work light, red handled diagnostic case, offset frontal viewpoint.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Furnace repair in Calgary. Scene: Service technician checking the exterior controls of a compact upright furnace in a tidy commercial service room, galvanized duct elbows overhead, amber work light, red handled diagnostic case, offset frontal viewpoint. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/alberta/calgary/furnace-repair/",
+      "key": "local-calgary-furnace-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Furnace repair in Calgary. Scene: Service technician checking the exterior controls of a compact upright furnace in a tidy commercial service room, galvanized duct elbows overhead, amber work light, red handled diagnostic case, offset frontal viewpoint. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-1e6a-7b72-8778-3ec92237a2aa/exec-1bcc4ef9-41c0-4410-b900-6db20ab62825.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-2/local-calgary-furnace-repair.png",
+      "status": "generated-inspected"
+    }
+  },
+  {
+    "route": "/locations/alberta/calgary/flat-roof-repair/",
+    "key": "local-calgary-flat-roof-repair",
+    "service": "Flat roof repair in Calgary",
+    "scene": "Close rooftop photograph of a gloved roofer examining the corner flashing around a square roof hatch on a light beige membrane, cool clear daylight, broad protected roof surface filling background, not a seam close-up.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Flat roof repair in Calgary. Scene: Close rooftop photograph of a gloved roofer examining the corner flashing around a square roof hatch on a light beige membrane, cool clear daylight, broad protected roof surface filling background, not a seam close-up. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/alberta/calgary/flat-roof-repair/",
+      "key": "local-calgary-flat-roof-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Flat roof repair in Calgary. Scene: Close rooftop photograph of a gloved roofer examining the corner flashing around a square roof hatch on a light beige membrane, cool clear daylight, broad protected roof surface filling background, not a seam close-up. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-5beb-7373-ac31-b0fef29c3037/exec-d28e7ba1-04a7-461c-91d1-c2a9f17cbcd5.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-3/local-calgary-flat-roof-repair.png",
+      "status": "parent-approved",
+      "reviewNote": "Parent approved as illustrative Calgary-related imagery.",
+      "sha256": "0762cb72e183b86250db2629bdf834ffed5598ea4a9fd22533958ba0de07c544",
+      "width": 1536,
+      "height": 1024
+    }
+  },
+  {
+    "route": "/locations/alberta/edmonton/furnace-repair/",
+    "key": "local-edmonton-furnace-repair",
+    "service": "Furnace repair in Edmonton",
+    "scene": "Heating professional and property manager beside two closed furnace cabinets serving a multi-unit building, dark blue painted utility-room wall, insulated supply ductwork, tablet held at waist with no readable display, wide frontal scene.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Furnace repair in Edmonton. Scene: Heating professional and property manager beside two closed furnace cabinets serving a multi-unit building, dark blue painted utility-room wall, insulated supply ductwork, tablet held at waist with no readable display, wide frontal scene. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/alberta/edmonton/furnace-repair/",
+      "key": "local-edmonton-furnace-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Furnace repair in Edmonton. Scene: Heating professional and property manager beside two closed furnace cabinets serving a multi-unit building, dark blue painted utility-room wall, insulated supply ductwork, tablet held at waist with no readable display, wide frontal scene. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc1d-46ed-7b10-a31a-7eafd2d449b1/exec-ed68443a-0cf3-4199-997d-5a81dc74588a.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-1/local-edmonton-furnace-repair.png",
+      "status": "complete"
+    }
+  },
+  {
+    "route": "/locations/ontario/ottawa/light-fixture-repair/",
+    "key": "local-ottawa-light-fixture-repair",
+    "service": "Light fixture repair in Ottawa",
+    "scene": "Lighting professional on a stable platform ladder examining an unpowered square LED panel in an empty controlled-access office corridor, nearby facilities escort, orderly ceiling grid, cool white interior, full platform included.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Light fixture repair in Ottawa. Scene: Lighting professional on a stable platform ladder examining an unpowered square LED panel in an empty controlled-access office corridor, nearby facilities escort, orderly ceiling grid, cool white interior, full platform included. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/ontario/ottawa/light-fixture-repair/",
+      "key": "local-ottawa-light-fixture-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Light fixture repair in Ottawa. Scene: Lighting professional on a stable platform ladder examining an unpowered square LED panel in an empty controlled-access office corridor, nearby facilities escort, orderly ceiling grid, cool white interior, full platform included. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-1e6a-7b72-8778-3ec92237a2aa/exec-2cdb592b-e66d-4cf1-934d-ff922a086958.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-2/local-ottawa-light-fixture-repair.png",
+      "status": "generated-inspected",
+      "inspectionNotes": "Approved after parent visual review: enclosed fixture, no exposed wiring, reasonable ladder step and facilities contact. Panel appears illuminated; use descriptive alt text without asserting power state."
+    }
+  },
+  {
+    "route": "/locations/quebec/montreal/door-alignment-repair/",
+    "key": "local-montreal-door-alignment-repair",
+    "service": "Door alignment repair in Montreal",
+    "scene": "Close floor-level view of a timber storefront door rubbing lightly at a worn brass threshold, maintenance professional measuring the hinge-side gap, textured old stone jamb, warm afternoon light, no dangerous door handling.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Door alignment repair in Montreal. Scene: Close floor-level view of a timber storefront door rubbing lightly at a worn brass threshold, maintenance professional measuring the hinge-side gap, textured old stone jamb, warm afternoon light, no dangerous door handling. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/quebec/montreal/door-alignment-repair/",
+      "key": "local-montreal-door-alignment-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Door alignment repair in Montreal. Scene: Close floor-level view of a timber storefront door rubbing lightly at a worn brass threshold, maintenance professional measuring the hinge-side gap, textured old stone jamb, warm afternoon light, no dangerous door handling. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-5beb-7373-ac31-b0fef29c3037/exec-c3d1e0a4-2f1b-404f-b793-717201dcbf3c.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-3/local-montreal-door-alignment-repair.png",
+      "status": "inspected-approved",
+      "sha256": "72384f30d08a6b325979d15145d161e81174d664305af1b2a3d0b0daea59a55e",
+      "width": 1536,
+      "height": 1024
+    }
+  },
+  {
+    "route": "/locations/quebec/montreal/storefront-glass-repair/",
+    "key": "local-montreal-storefront-glass-repair",
+    "service": "Storefront glass repair in Montreal",
+    "scene": "Glazing worker preparing a custom-sized unbroken pane on a padded mobile stand inside an older narrow brick storefront, tall arched display-window frame in background, protective gloves, muted terracotta walls, side-lit.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Storefront glass repair in Montreal. Scene: Glazing worker preparing a custom-sized unbroken pane on a padded mobile stand inside an older narrow brick storefront, tall arched display-window frame in background, protective gloves, muted terracotta walls, side-lit. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/quebec/montreal/storefront-glass-repair/",
+      "key": "local-montreal-storefront-glass-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Storefront glass repair in Montreal. Scene: Glazing worker preparing a custom-sized unbroken pane on a padded mobile stand inside an older narrow brick storefront, tall arched display-window frame in background, protective gloves, muted terracotta walls, side-lit. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc1d-46ed-7b10-a31a-7eafd2d449b1/exec-3384073e-ba7e-4abb-8ca1-39b54d4d7769.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-1/local-montreal-storefront-glass-repair.png",
+      "status": "complete"
+    }
+  },
+  {
+    "route": "/locations/manitoba/winnipeg/toilet-repair/",
+    "key": "local-winnipeg-toilet-repair",
+    "service": "Toilet repair in Winnipeg",
+    "scene": "Professional inspecting a chrome commercial flush valve on a wall-mounted toilet in an empty business washroom, grey partition and pale yellow wall tile, hands and valve detail central, no cistern and no exposed live systems.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Toilet repair in Winnipeg. Scene: Professional inspecting a chrome commercial flush valve on a wall-mounted toilet in an empty business washroom, grey partition and pale yellow wall tile, hands and valve detail central, no cistern and no exposed live systems. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/manitoba/winnipeg/toilet-repair/",
+      "key": "local-winnipeg-toilet-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Toilet repair in Winnipeg. Scene: Professional inspecting a chrome commercial flush valve on a wall-mounted toilet in an empty business washroom, grey partition and pale yellow wall tile, hands and valve detail central, no cistern and no exposed live systems. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-1e6a-7b72-8778-3ec92237a2aa/exec-7f435d7f-06b6-49a8-adde-6dc771fbbdfc.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-2/local-winnipeg-toilet-repair.png",
+      "status": "generated-inspected"
+    }
+  },
+  {
+    "route": "/locations/nova-scotia/halifax/roof-leak-assessment/",
+    "key": "local-halifax-roof-leak-assessment",
+    "service": "Roof leak assessment in Halifax",
+    "scene": "Building professional documenting a dry roof-related stain near a ceiling-to-wall junction in a coastal-style commercial interior, rain on a distant window, compact flashlight and notebook, white painted ceiling, medium upward angle.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Roof leak assessment in Halifax. Scene: Building professional documenting a dry roof-related stain near a ceiling-to-wall junction in a coastal-style commercial interior, rain on a distant window, compact flashlight and notebook, white painted ceiling, medium upward angle. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/nova-scotia/halifax/roof-leak-assessment/",
+      "key": "local-halifax-roof-leak-assessment",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Roof leak assessment in Halifax. Scene: Building professional documenting a dry roof-related stain near a ceiling-to-wall junction in a coastal-style commercial interior, rain on a distant window, compact flashlight and notebook, white painted ceiling, medium upward angle. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-5beb-7373-ac31-b0fef29c3037/exec-693177d6-d773-4bc2-a12e-41183b274b39.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-3/local-halifax-roof-leak-assessment.png",
+      "status": "inspected-approved",
+      "sha256": "28445dfa8343f8815bc5fd661be05adfa44b1f80832ddad7e8d2f179ed23f8f6",
+      "width": 1536,
+      "height": 1024
+    }
+  },
+  {
+    "route": "/locations/ontario/mississauga/commercial-refrigerator-repair/",
+    "key": "local-mississauga-commercial-refrigerator-repair",
+    "service": "Commercial refrigerator repair in Mississauga",
+    "scene": "Refrigeration professional reviewing a glass-door upright commercial display refrigerator in a clean small food shop, empty shelves and blue exterior trim, controller visible without legible text, daylight frontal three-quarter shot.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Commercial refrigerator repair in Mississauga. Scene: Refrigeration professional reviewing a glass-door upright commercial display refrigerator in a clean small food shop, empty shelves and blue exterior trim, controller visible without legible text, daylight frontal three-quarter shot. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/ontario/mississauga/commercial-refrigerator-repair/",
+      "key": "local-mississauga-commercial-refrigerator-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Commercial refrigerator repair in Mississauga. Scene: Refrigeration professional reviewing a glass-door upright commercial display refrigerator in a clean small food shop, empty shelves and blue exterior trim, controller visible without legible text, daylight frontal three-quarter shot. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc1d-46ed-7b10-a31a-7eafd2d449b1/exec-ae0c0e32-f906-4332-ad97-f6245d05a7e2.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-1/local-mississauga-commercial-refrigerator-repair.png",
+      "status": "complete"
+    }
+  },
+  {
+    "route": "/locations/ontario/brampton/door-alignment-repair/",
+    "key": "local-brampton-door-alignment-repair",
+    "service": "Door alignment repair in Brampton",
+    "scene": "Maintenance professional checking hinges on a grey steel pedestrian service door beside an indoor warehouse loading corridor, small spirit level on door edge, safety shoes and clear walkway, medium side view.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Door alignment repair in Brampton. Scene: Maintenance professional checking hinges on a grey steel pedestrian service door beside an indoor warehouse loading corridor, small spirit level on door edge, safety shoes and clear walkway, medium side view. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/ontario/brampton/door-alignment-repair/",
+      "key": "local-brampton-door-alignment-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Door alignment repair in Brampton. Scene: Maintenance professional checking hinges on a grey steel pedestrian service door beside an indoor warehouse loading corridor, small spirit level on door edge, safety shoes and clear walkway, medium side view. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-1e6a-7b72-8778-3ec92237a2aa/exec-959370ef-8f87-4828-8e7d-d402df0402d3.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-2/local-brampton-door-alignment-repair.png",
+      "status": "generated-inspected"
+    }
+  },
+  {
+    "route": "/locations/ontario/hamilton/outlet-repair/",
+    "key": "local-hamilton-outlet-repair",
+    "service": "Electrical outlet repair in Hamilton",
+    "scene": "Electrical professional examining a heavy-duty surface-mounted duplex receptacle box on a brick workshop wall with the circuit safely isolated, metal conduit visible, replacement cover on workbench, no open wiring, close oblique angle.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Electrical outlet repair in Hamilton. Scene: Electrical professional examining a heavy-duty surface-mounted duplex receptacle box on a brick workshop wall with the circuit safely isolated, metal conduit visible, replacement cover on workbench, no open wiring, close oblique angle. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/ontario/hamilton/outlet-repair/",
+      "key": "local-hamilton-outlet-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Electrical outlet repair in Hamilton. Scene: Electrical professional examining a heavy-duty surface-mounted duplex receptacle box on a brick workshop wall with the circuit safely isolated, metal conduit visible, replacement cover on workbench, no open wiring, close oblique angle. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-5beb-7373-ac31-b0fef29c3037/exec-24cbfaff-47b5-4ed3-9559-62f88fbfd10b.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-3/local-hamilton-outlet-repair.png",
+      "status": "inspected-approved",
+      "sha256": "70d623ee22b347f38ccc3410e8952c2777ded6871b50742bed595bc1ef8d7e3c",
+      "width": 1536,
+      "height": 1024
+    }
+  },
+  {
+    "route": "/locations/british-columbia/surrey/ceiling-tile-replacement/",
+    "key": "local-surrey-ceiling-tile-replacement",
+    "service": "Ceiling tile replacement in Surrey",
+    "scene": "Professional replacing a single acoustic ceiling tile above an empty retail-unit corridor, stable work platform in frame and protected counter below, cream grid with existing matching tiles, wide low angle.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Ceiling tile replacement in Surrey. Scene: Professional replacing a single acoustic ceiling tile above an empty retail-unit corridor, stable work platform in frame and protected counter below, cream grid with existing matching tiles, wide low angle. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/british-columbia/surrey/ceiling-tile-replacement/",
+      "key": "local-surrey-ceiling-tile-replacement",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Ceiling tile replacement in Surrey. Scene: Professional replacing a single acoustic ceiling tile above an empty retail-unit corridor, stable work platform in frame and protected counter below, cream grid with existing matching tiles, wide low angle. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc1d-46ed-7b10-a31a-7eafd2d449b1/exec-3f71602f-a7d2-41e0-8fdf-97ffc5f6cebc.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-1/local-surrey-ceiling-tile-replacement.png",
+      "status": "complete"
+    }
+  },
+  {
+    "route": "/locations/british-columbia/burnaby/air-conditioning-repair/",
+    "key": "local-burnaby-air-conditioning-repair",
+    "service": "Air conditioning repair in Burnaby",
+    "scene": "HVAC technician inspecting an outdoor packaged cooling unit inside a secure mechanical yard adjoining a modern office, grey louvered enclosure, damp paving and soft overcast light, wide composition distinct from rooftop and mini-split scenes.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Air conditioning repair in Burnaby. Scene: HVAC technician inspecting an outdoor packaged cooling unit inside a secure mechanical yard adjoining a modern office, grey louvered enclosure, damp paving and soft overcast light, wide composition distinct from rooftop and mini-split scenes. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/british-columbia/burnaby/air-conditioning-repair/",
+      "key": "local-burnaby-air-conditioning-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Air conditioning repair in Burnaby. Scene: HVAC technician inspecting an outdoor packaged cooling unit inside a secure mechanical yard adjoining a modern office, grey louvered enclosure, damp paving and soft overcast light, wide composition distinct from rooftop and mini-split scenes. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-1e6a-7b72-8778-3ec92237a2aa/exec-af53865a-a49c-4290-97f5-1af50ab7dc78.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-2/local-burnaby-air-conditioning-repair.png",
+      "status": "generated-inspected"
+    }
+  },
+  {
+    "route": "/locations/british-columbia/richmond/commercial-refrigerator-repair/",
+    "key": "local-richmond-commercial-refrigerator-repair",
+    "service": "Commercial refrigerator repair in Richmond",
+    "scene": "Technician checking a stainless undercounter preparation refrigerator in a spotless commercial kitchen, closed drawers and digital controller, cream tile wall, low close angle with gloved hand indicating control area, no food.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Commercial refrigerator repair in Richmond. Scene: Technician checking a stainless undercounter preparation refrigerator in a spotless commercial kitchen, closed drawers and digital controller, cream tile wall, low close angle with gloved hand indicating control area, no food. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/british-columbia/richmond/commercial-refrigerator-repair/",
+      "key": "local-richmond-commercial-refrigerator-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Commercial refrigerator repair in Richmond. Scene: Technician checking a stainless undercounter preparation refrigerator in a spotless commercial kitchen, closed drawers and digital controller, cream tile wall, low close angle with gloved hand indicating control area, no food. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-5beb-7373-ac31-b0fef29c3037/exec-e0ff7396-2dae-400e-853c-16dd79d220be.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-3/local-richmond-commercial-refrigerator-repair.png",
+      "status": "inspected-approved",
+      "sha256": "3137fe105d8bccd9e1fc6f77eeb9ef3c9adda293d2513d8570d297ea8493ed2d",
+      "width": 1536,
+      "height": 1024
+    }
+  },
+  {
+    "route": "/locations/british-columbia/victoria/window-hardware-repair/",
+    "key": "local-victoria-window-hardware-repair",
+    "service": "Window hardware repair in Victoria",
+    "scene": "Maintenance professional inspecting a black window stay on an old painted sage-green timber casement window from indoors, cream trim and soft coastal daylight, close detailed view, sash secure and no leaning outside.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Window hardware repair in Victoria. Scene: Maintenance professional inspecting a black window stay on an old painted sage-green timber casement window from indoors, cream trim and soft coastal daylight, close detailed view, sash secure and no leaning outside. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/british-columbia/victoria/window-hardware-repair/",
+      "key": "local-victoria-window-hardware-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Window hardware repair in Victoria. Scene: Maintenance professional inspecting a black window stay on an old painted sage-green timber casement window from indoors, cream trim and soft coastal daylight, close detailed view, sash secure and no leaning outside. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc1d-46ed-7b10-a31a-7eafd2d449b1/exec-99de5460-bd1d-4cb2-80ff-d90bde85f4e8.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-1/local-victoria-window-hardware-repair.png",
+      "status": "complete"
+    }
+  },
+  {
+    "route": "/locations/saskatchewan/saskatoon/furnace-repair/",
+    "key": "local-saskatoon-furnace-repair",
+    "service": "Furnace repair in Saskatoon",
+    "scene": "Side-view portrait of a heating technician checking a safely accessible wall thermostat near a closed furnace in a clean small commercial utility room, light grey concrete walls and vertical silver duct, no combustion panels open.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Furnace repair in Saskatoon. Scene: Side-view portrait of a heating technician checking a safely accessible wall thermostat near a closed furnace in a clean small commercial utility room, light grey concrete walls and vertical silver duct, no combustion panels open. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/saskatchewan/saskatoon/furnace-repair/",
+      "key": "local-saskatoon-furnace-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Furnace repair in Saskatoon. Scene: Side-view portrait of a heating technician checking a safely accessible wall thermostat near a closed furnace in a clean small commercial utility room, light grey concrete walls and vertical silver duct, no combustion panels open. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-1e6a-7b72-8778-3ec92237a2aa/exec-c02a4182-fc04-4fc2-b704-4e88284aa4ed.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-2/local-saskatoon-furnace-repair.png",
+      "status": "generated-inspected"
+    }
+  },
+  {
+    "route": "/locations/saskatchewan/regina/door-closer-repair/",
+    "key": "local-regina-door-closer-repair",
+    "service": "Door closer repair in Regina",
+    "scene": "Detailed view of an ivory hydraulic closer and articulated arm on a red-painted metal shop entrance, technician gloved hand inspecting the mounting screws, textured masonry background, warm winter daylight without snow inside.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Door closer repair in Regina. Scene: Detailed view of an ivory hydraulic closer and articulated arm on a red-painted metal shop entrance, technician gloved hand inspecting the mounting screws, textured masonry background, warm winter daylight without snow inside. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/saskatchewan/regina/door-closer-repair/",
+      "key": "local-regina-door-closer-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Door closer repair in Regina. Scene: Detailed view of an ivory hydraulic closer and articulated arm on a red-painted metal shop entrance, technician gloved hand inspecting the mounting screws, textured masonry background, warm winter daylight without snow inside. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-5beb-7373-ac31-b0fef29c3037/exec-0c633cb5-fc1a-40a5-a8d3-025d82c19443.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-3/local-regina-door-closer-repair.png",
+      "status": "inspected-approved",
+      "error": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID d8dc2a9c-b831-40a7-ab30-9837b3585d9d. safety_violations=[illicit].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"illicit\\\"\\n      ]\\n    }\\n  }\\n}\")",
+      "replacementPrompt": "A cream-coloured commercial hydraulic door closer and its articulated arm resting on a clean maintenance workbench, red painted entry door softly blurred in background, winter daylight, photorealistic landscape 1536×1024, no people, no operation or alteration of security hardware, no text or logos.",
+      "reviewNote": "Replacement benign equipment still-life approved; original output moderation error retained.",
+      "sha256": "d1da61e03c4f3a4acb78203469589e3460fad80889ef384d395e4c4c2a8aef1e",
+      "width": 1536,
+      "height": 1024
+    }
+  },
+  {
+    "route": "/locations/quebec/quebec-city/window-hardware-repair/",
+    "key": "local-quebec-city-window-hardware-repair",
+    "service": "Window hardware repair in Quebec City",
+    "scene": "Close photograph of a specialist examining an ornate dark bronze handle and hinge on a cream timber window in a stone-walled older property, window securely closed, interior daylight, hand and component central, no text.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Window hardware repair in Quebec City. Scene: Close photograph of a specialist examining an ornate dark bronze handle and hinge on a cream timber window in a stone-walled older property, window securely closed, interior daylight, hand and component central, no text. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/quebec/quebec-city/window-hardware-repair/",
+      "key": "local-quebec-city-window-hardware-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Window hardware repair in Quebec City. Scene: Close photograph of a specialist examining an ornate dark bronze handle and hinge on a cream timber window in a stone-walled older property, window securely closed, interior daylight, hand and component central, no text. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc1d-46ed-7b10-a31a-7eafd2d449b1/exec-bbbe8eda-7794-43f7-a658-eb4b065bd41a.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-1/local-quebec-city-window-hardware-repair.png",
+      "status": "parent-approved",
+      "reviewNote": "Service-relevant image, but background includes castle-like architecture resembling a Quebec landmark despite prompt prohibiting identifiable landmarks.",
+      "review": "Service-relevant illustrative window hardware scene; background architecture accepted by parent reviewer."
+    }
+  },
+  {
+    "route": "/locations/new-brunswick/fredericton/drywall-repair/",
+    "key": "local-fredericton-drywall-repair",
+    "service": "Drywall repair in Fredericton",
+    "scene": "Maintenance professional measuring a rectangular finished drywall patch beside a timber door frame in a small empty office, clean drop cloth and sanding block on tray, morning light, wide view emphasizing planned paint blending.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Drywall repair in Fredericton. Scene: Maintenance professional measuring a rectangular finished drywall patch beside a timber door frame in a small empty office, clean drop cloth and sanding block on tray, morning light, wide view emphasizing planned paint blending. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/new-brunswick/fredericton/drywall-repair/",
+      "key": "local-fredericton-drywall-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Drywall repair in Fredericton. Scene: Maintenance professional measuring a rectangular finished drywall patch beside a timber door frame in a small empty office, clean drop cloth and sanding block on tray, morning light, wide view emphasizing planned paint blending. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-1e6a-7b72-8778-3ec92237a2aa/exec-a01e1b97-5ca4-4d50-85c9-4e9ad94f6bdc.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-2/local-fredericton-drywall-repair.png",
+      "status": "generated-inspected"
+    }
+  },
+  {
+    "route": "/locations/new-brunswick/moncton/light-fixture-repair/",
+    "key": "local-moncton-light-fixture-repair",
+    "service": "Light fixture repair in Moncton",
+    "scene": "Electrical professional examining a removed round LED high-bay light fixture on a bench in a tidy distribution stockroom, lens and mounting bracket clearly visible, tall shelves blurred behind, warm-cool mixed lighting, no overhead work.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Light fixture repair in Moncton. Scene: Electrical professional examining a removed round LED high-bay light fixture on a bench in a tidy distribution stockroom, lens and mounting bracket clearly visible, tall shelves blurred behind, warm-cool mixed lighting, no overhead work. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/new-brunswick/moncton/light-fixture-repair/",
+      "key": "local-moncton-light-fixture-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Light fixture repair in Moncton. Scene: Electrical professional examining a removed round LED high-bay light fixture on a bench in a tidy distribution stockroom, lens and mounting bracket clearly visible, tall shelves blurred behind, warm-cool mixed lighting, no overhead work. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-5beb-7373-ac31-b0fef29c3037/exec-fa84c2c9-6c90-40a4-861b-16b5af59ee69.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-3/local-moncton-light-fixture-repair.png",
+      "status": "inspected-approved",
+      "sha256": "daf1833a1c2f85cd2a3327aee9aab990243e664b72318f51adfea443ee9ed0ef",
+      "width": 1536,
+      "height": 1024
+    }
+  },
+  {
+    "route": "/locations/new-brunswick/saint-john/flat-roof-repair/",
+    "key": "local-saint-john-flat-roof-repair",
+    "service": "Flat roof repair in Saint John",
+    "scene": "Roofer assessing dark bituminous flat-roof flashing around a short vent pipe on an enclosed commercial roof, soft foggy overcast lighting, gloved hands holding a small mirror, close horizontal framing far from edges.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Flat roof repair in Saint John. Scene: Roofer assessing dark bituminous flat-roof flashing around a short vent pipe on an enclosed commercial roof, soft foggy overcast lighting, gloved hands holding a small mirror, close horizontal framing far from edges. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/new-brunswick/saint-john/flat-roof-repair/",
+      "key": "local-saint-john-flat-roof-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Flat roof repair in Saint John. Scene: Roofer assessing dark bituminous flat-roof flashing around a short vent pipe on an enclosed commercial roof, soft foggy overcast lighting, gloved hands holding a small mirror, close horizontal framing far from edges. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-1e6a-7b72-8778-3ec92237a2aa/exec-71421e01-fc19-40fa-9843-b243bc10f1a4.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-1/local-saint-john-flat-roof-repair.png",
+      "status": "generated-inspected"
+    }
+  },
+  {
+    "route": "/locations/newfoundland-and-labrador/st-johns/roof-leak-assessment/",
+    "key": "local-st-johns-roof-leak-assessment",
+    "service": "Roof leak assessment in St. John’s",
+    "scene": "Professional reviewing roof drawings and indoor moisture photographs at a table beneath a small ceiling stain in an empty commercial room, rain-streaked window and muted blue wall, wide documentary view with no readable document text.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Roof leak assessment in St. John’s. Scene: Professional reviewing roof drawings and indoor moisture photographs at a table beneath a small ceiling stain in an empty commercial room, rain-streaked window and muted blue wall, wide documentary view with no readable document text. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/newfoundland-and-labrador/st-johns/roof-leak-assessment/",
+      "key": "local-st-johns-roof-leak-assessment",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Roof leak assessment in St. John’s. Scene: Professional reviewing roof drawings and indoor moisture photographs at a table beneath a small ceiling stain in an empty commercial room, rain-streaked window and muted blue wall, wide documentary view with no readable document text. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-1e6a-7b72-8778-3ec92237a2aa/exec-b670b4dd-7262-4209-8e07-3534b7e8d97a.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-2/local-st-johns-roof-leak-assessment.png",
+      "status": "generated-inspected"
+    }
+  },
+  {
+    "route": "/locations/ontario/london/washer-repair/",
+    "key": "local-london-washer-repair",
+    "service": "Washing machine repair in London",
+    "scene": "Appliance professional checking a single white top-loading washer in an organized shared-laundry room, lid open and empty tub visible, other machines softly blurred, dry floor, green tool bag, waist-level perspective.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Washing machine repair in London. Scene: Appliance professional checking a single white top-loading washer in an organized shared-laundry room, lid open and empty tub visible, other machines softly blurred, dry floor, green tool bag, waist-level perspective. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/ontario/london/washer-repair/",
+      "key": "local-london-washer-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Washing machine repair in London. Scene: Appliance professional checking a single white top-loading washer in an organized shared-laundry room, lid open and empty tub visible, other machines softly blurred, dry floor, green tool bag, waist-level perspective. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-5beb-7373-ac31-b0fef29c3037/exec-49f827a0-d8e0-4993-b076-594dccd6d3a6.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-3/local-london-washer-repair.png",
+      "status": "inspected-approved",
+      "sha256": "67ba8a2d431c215444b796ca6e73cee4341e5d2eb7f68bf77efeb0d44b6878d9",
+      "width": 1536,
+      "height": 1024
+    }
+  },
+  {
+    "route": "/locations/ontario/kitchener/drywall-repair/",
+    "key": "local-kitchener-drywall-repair",
+    "service": "Drywall repair in Kitchener",
+    "scene": "Close wall repair scene with a professional sanding a smooth circular drywall patch by hand in an unfurnished rental room, dust control attachment and covered floor, pale grey wall and strong side daylight, no power-tool action.",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Drywall repair in Kitchener. Scene: Close wall repair scene with a professional sanding a smooth circular drywall patch by hand in an unfurnished rental room, dust control attachment and covered floor, pale grey wall and strong side daylight, no power-tool action. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+    "generation": {
+      "route": "/locations/ontario/kitchener/drywall-repair/",
+      "key": "local-kitchener-drywall-repair",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique service-page hero photograph for FixPro, a Canadian repair-coordination website. Create ONE original landscape photograph, 1536x1024, 3:2 ratio, full bleed, no collage. Service: Drywall repair in Kitchener. Scene: Close wall repair scene with a professional sanding a smooth circular drywall patch by hand in an unfurnished rental room, dust control attachment and covered floor, pale grey wall and strong side daylight, no power-tool action. Style: believable editorial service photography, natural textures, clean professional commercial setting, restrained blue and neutral palette, real optical depth, visually distinct composition. Show safe professional practice; no exposed energized electrical parts, flames, unsafe heights or graphic damage. No brand marks, uniforms with logos, legible text, signage, watermarks, identifiable landmarks or before/after panels. Illustrative scene, not a claim of actual FixPro staff or completed work. Keep the main equipment fully legible in a centre-safe composition suitable for responsive cropping.",
+      "sourcePath": "/Users/grafov/.codex/generated_images/01a0bc5e-1e6a-7b72-8778-3ec92237a2aa/exec-956ee85d-b87d-418b-8749-c7ed6b5be6c2.png",
+      "savedPath": "/Users/grafov/Documents/Codex/2026-09-19/fixpro-image-assets/batch-1/local-kitchener-drywall-repair.png",
+      "status": "generated-inspected"
+    }
+  }
+]

@@ -1,0 +1,1 @@
+Copied from ChatGPT conversation “FixPro Launch Ideas” (6aaf205e-cd2c-83ea-ad20-729d4c7fd703), as supplied to this task. The retrieved master prompt ends in section 40 at the word “webhook”. No continuation has been invented.

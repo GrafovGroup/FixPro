@@ -1,0 +1,2 @@
+import {Shell,Action} from '@/components/site';
+export default function NotFound(){return <Shell><section className="container section"><span className="eyebrow">Page not found</span><h1>Let’s get you to the right place.</h1><p>This page isn’t available. You can still tell us what needs fixing.</p><Action/><div style={{marginTop:20}}><Action href="/" secondary>Back to FixPro</Action></div></section></Shell>}
